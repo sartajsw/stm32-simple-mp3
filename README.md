@@ -1,0 +1,2 @@
+# stm32-simple-mp3
+A simple pwm based mp3 player on a STM32 microcontroller.
